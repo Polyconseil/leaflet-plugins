@@ -18,6 +18,9 @@
   "contributors": [
     "Bruno Bergot <bruno@eliaz.fr>"
   ],
+  "publishConfig":{
+    "registry":"https://npm.polydev.blue"
+  },
   "keywords": [
     "leaflet",
     "plugins",
